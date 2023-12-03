@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱I am Currently Working on :<br>Full Stack Development.<br><br>I'm looking to collaborate on :<br>Fullstack Projects.<br><br>I'm Currently Learning about :<br>Machine Learning and AI.<br><br>Ask Me About :<br>JavaScript, React, Python, Next.Js, Node.js, AWS, AI and any General Tech Related Questions.<br><br>
+🌱 I am Currently Working on :<br>Full Stack Development.<br><br>🔭 I'm looking to collaborate on :<br>Fullstack Projects.<br><br>🤖 I'm Currently Learning about :<br>Machine Learning and AI.<br><br>💬 Ask Me About :<br>JavaScript, React, Python, Next.Js, Node.js, AWS, AI and any General Tech Related Questions.<br><br>
 
 
 ## 🌐 Socials:
